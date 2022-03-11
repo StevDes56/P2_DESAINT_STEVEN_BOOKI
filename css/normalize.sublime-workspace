@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"UI",
+				"UI: Customize Theme"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/steve/Documents/P2_BOOKI/css/normalize.css",
+		"/C/Users/steve/Documents/P2_BOOKI/style.css",
+		"/C/Users/steve/Documents/P2_BOOKI/page 1.html",
+		"/C/Users/steve/Downloads/Package Control (1).sublime-package",
+		"/C/Users/steve/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/steve/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/steve/Documents/doc css.css",
+		"/C/Users/steve/Documents/cv steven.html/style.css",
+		"/C/Users/steve/Documents/cv steven.html/page 1.html",
+		"/C/Users/steve/Documents/sitelpm.html/page 1.html",
+		"/C/Users/steve/Documents/P2_BOOKI/css/style.css",
+		"/C/Users/steve/Documents/test booki/Booki.html",
+		"/C/Users/steve/Documents/test booki/Booki_files/style.css",
+		"/C/Users/steve/AppData/Local/Temp/Temp1_normalize.css-master.zip/normalize.css-master/normalize.css",
+		"/C/Users/steve/Documents/P2_BOOKI/fontawesome-free-6.0.0-beta2-web/fontawesome-free-6.0.0-beta2-web/css/all.css",
+		"/C/Users/steve/Documents/sitelpm.html/style.css",
+		"/C/Users/steve/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/1/Attachments/page 1[2305843009216004231].html",
+		"/C/Users/steve/Documents/P2_BOOKI/images/.DS_Store",
+		"/E/A Complete Guide to Flexbox _ CSS-Tricks.html",
+		"/C/Users/steve/Documents/P2_BOOKI/fontawesome-free-6.0.0-beta2-web/fontawesome-free-6.0.0-beta2-web/css/fontawesome.css",
+		"/C/Users/steve/Downloads/fontawesome-free-6.0.0-beta2-web/fontawesome-free-6.0.0-beta2-web/css/all.css",
+		"/C/Users/steve/Downloads/fontawesome-free-6.0.0-beta2-web/fontawesome-free-6.0.0-beta2-web/css/regular.css",
+		"/C/Users/steve/Documents/page 1.html",
+		"/C/Users/steve/Downloads/DW+P2+-+Ressources+Booki+FR/DW P2 - Ressources Booki FR/images/activites/.DS_Store",
+		"/C/Users/steve/Downloads/DW+P2+-+Ressources+Booki+FR/DW P2 - Ressources Booki FR/images/.DS_Store",
+		"/C/Users/steve/Downloads/DW+P2+-+Ressources+Booki+FR/DW P2 - Ressources Booki FR/.DS_Store",
+		"/C/Users/steve/Downloads/DW+P2+-+Ressources+Booki+FR/DW P2 - Ressources Booki FR/Desktop - 1.png",
+		"/C/Users/steve/Documents/steven.html/test.html/cv.html",
+		"/C/Users/steve/AppData/Local/Temp/Temp1_tp_final.zip/tp_final/style.css",
+		"/C/Users/steve/Downloads/tp_final (1)/tp_final/index.html",
+		"/C/Users/steve/Documents/sitelpm.html/page 1.html.html",
+		"/C/Users/steve/Documents/steven.html/test.html/style.css",
+		"/C/Users/steve/Downloads/organiser-son-cv_exemple-2019-01-03T082109/activite_partie3/style.css",
+		"/C/Users/steve/Downloads/organiser-son-cv_exemple-2019-01-03T082109/activite_partie3/mathieu_nebra.html",
+		"/C/Users/steve/Documents/cv steven.html/DroidSans-webfont.eot",
+		"/C/Users/steve/Downloads/tp_final (1)/tp_final/style.css",
+		"/C/Users/steve/Documents/steven.html/test.html/font family.css",
+		"/C/Users/steve/Documents/Mam.les petits mondes.html",
+		"/C/Users/steve/Documents/tp_final/tp_final/index.html",
+		"/C/Users/steve/Documents/tp_final/tp_final/style.css",
+		"/C/Users/steve/Downloads/tp_final/tp_final/index.html",
+		"/C/Users/steve/Downloads/tp_final/tp_final/style.css",
+		"/C/Users/steve/Documents/police.eot/Quicksand-Regular.otf",
+		"/C/Users/steve/Documents/steven.html/test.html/cv.css",
+		"/C/Users/steve/Downloads/mettez-en-forme-votre-cv_exemple-2019-01-03T082017/activite_partie2/.DS_Store",
+		"/C/Users/steve/Documents/cv.css",
+		"/C/Users/steve/Documents/image.css",
+		"/C/Users/steve/Downloads/mettez-en-forme-votre-cv_exemple-2019-01-03T082017/activite_partie2/DroidSans-webfont.eot",
+		"/C/Users/steve/AppData/Local/Temp/Temp1_mettez-en-forme-votre-cv_exemple-2019-01-03T082017.zip/activite_partie2/DroidSans-webfont.svg",
+		"/C/Users/steve/Documents/image flottante.html",
+		"/C/Users/steve/Documents/steven.html/test.html/html_css",
+		"/C/Users/steve/Documents/steven.html/test.html/page 3.html",
+		"/C/Users/steve/Documents/steven.html/test.html/sublime texte.css",
+		"/C/Users/steve/Documents/steven.html/test.html/style.html",
+		"/C/Users/steve/Documents/cv.html.html",
+		"/C/Users/steve/AppData/Local/Temp/Temp1_structurez-votre-cv_exemple-2019-01-03T081950 (1).zip/__MACOSX/._activite_partie1",
+		"/C/Users/steve/Downloads/DS_Store",
+		"/C/Users/steve/Documents/photo de montagne.html",
+		"/C/Users/steve/Documents/inserer une image.html",
+		"/C/Users/steve/Documents/page 2.html",
+		"/C/Users/steve/Documents/ancre 1.html",
+		"/C/Users/steve/Documents/ancre. html/ancre 2.html",
+		"/C/Users/steve/Documents/ancre 3.html",
+		"/C/Users/steve/Documents/contenu",
+		"/C/Users/steve/Documents/html/page 1.html",
+		"/C/Users/steve/Documents/TEST OC.html",
+		"/C/Users/steve/Documents/oc 2.html",
+		"/C/Users/steve/Documents/oc 1.html",
+		"/C/Users/steve/Documents/TEST/TEST OC",
+		"/C/Users/steve/Documents/TEST/TEST OC 2",
+		"/C/Users/steve/Documents/test/page 1.html",
+		"/C/Users/steve/Documents/test/page 2.html",
+		"/C/Users/steve/Documents/test/page1.html",
+		"/C/Users/steve/Documents/TEST/page 2.html",
+		"/C/Users/steve/Documents/page1.html",
+		"/C/Users/steve/Documents/lien 1. html",
+		"/C/Users/steve/Documents/lien 2.html",
+		"/C/Users/steve/Documents/monancre 1.html",
+		"/C/Users/steve/Documents/mon ancre 2.html",
+		"/C/Users/steve/Documents/mon ancre 3.html",
+		"/C/Users/steve/Documents/Ancrage 1.html",
+		"/C/Users/steve/Documents/Ancrage 2.html",
+		"/C/Users/steve/Documents/ancrage 3.html",
+		"/C/Users/steve/Documents/page 3 ancrage",
+		"/C/Users/steve/Documents/page 2 ancrage",
+		"/C/Users/steve/Documents/Page 1 ancrage",
+		"/C/Users/steve/Documents/test",
+		"/C/Users/steve/Documents/HTML/page 3.angrage",
+		"/C/Users/steve/Documents/HTML/page 2.ancrage",
+		"/C/Users/steve/Documents/HTML/Page 1.ancrage",
+		"/C/Users/steve/Documents/HTML/page1.html",
+		"/C/Users/steve/Documents/HTML/page2.HTML",
+		"/C/Users/steve/Documents/HTML/page 1.html",
+		"/C/Users/steve/Documents/HTML/contenu/contenu",
+		"/C/Users/steve/Documents/HTML/page 2.html",
+		"/C/Users/steve/OneDrive/Documents/TEST/page 2.html",
+		"/C/Users/steve/OneDrive/Documents/TEST/page 1.html",
+		"/C/Users/steve/OneDrive/Documents/page 2.html",
+		"/C/Users/steve/OneDrive/Documents/HTML.html",
+		"/C/Users/steve/OneDrive/Documents/Page oc",
+		"/C/Users/steve/OneDrive/Documents/Page 2.html",
+		"/C/Users/steve/OneDrive/Documents/Page 1.html",
+		"/C/Users/steve/OneDrive/Documents/Test lien",
+		"/C/Users/steve/OneDrive/Documents/HTML",
+		"/C/Users/steve/OneDrive/Bureau/HTML",
+		"/C/Users/steve/OneDrive/Bureau/Page 1HTML",
+		"/C/Users/steve/OneDrive/Bureau/Page 2 HTML",
+		"/C/Users/steve/OneDrive/Documents/Test/test.html.html",
+		"/C/Users/steve/OneDrive/Documents/balise.html",
+		"/C/Users/steve/OneDrive/Documents/OC.html",
+		"/C/Users/steve/OneDrive/Bureau/Test/balise.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "normalize.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"C:\\Users\\steve\\AppData\\Roaming\\Sublime Text\\Packages\\User\\Package Control.sublime-settings"
+			],
+			[
+				"IP",
+				"C:\\Users\\steve\\AppData\\Roaming\\Sublime Text\\Packages\\User\\Package Control.sublime-settings"
+			],
+			[
+				"pal",
+				"C:\\Users\\steve\\AppData\\Roaming\\Sublime Text\\Packages\\User\\Package Control.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 240.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
